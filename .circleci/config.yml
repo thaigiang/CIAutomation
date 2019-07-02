@@ -29,7 +29,6 @@ jobs:
           destination: reports
       - store_test_results:
           path: app/build/test-results
-jobs:
   test:
     docker:
       - image: circleci/android:api-28-alpha  # gcloud is baked into this image

@@ -23,4 +23,9 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.thaigiang.ciautomation", appContext.getPackageName());
     }
+
+    @Test
+    public void textBoxInput(){
+
+    }
 }

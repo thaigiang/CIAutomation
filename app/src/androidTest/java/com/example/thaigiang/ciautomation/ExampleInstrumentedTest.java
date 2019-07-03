@@ -28,4 +28,9 @@ public class ExampleInstrumentedTest {
     public void textBoxInput(){
 
     }
+
+    @Test
+    public void emailValidate(){
+
+    }
 }
